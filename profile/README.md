@@ -1,12 +1,7 @@
-## Hi there 👋
+# Iman-Scripts
 
-<!--
+This is where I keep the small scripts and tools I have written over the years.
 
-**Here are some ideas to get you started:**
+Most of them solve a single problem I had at some point: renaming a folder of files, mailing a class of students, cropping pages of a scanned book, converting a notebook to PDF, automating a course registration form, and so on. Each repository contains the script (or a couple of them) and a short readme explaining how to run it.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Nothing here is meant to be a polished product. They are working tools I actually used. If any of them happen to be useful to you too, feel free to take them.
